@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LordOlumide
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning JavaScript, Dart and Flutter.
-- I"m trying to improve my dedication.
+- I"m improving.
 - 📫 How to reach me: olumideolubosede@yahoo.com
 
 <!---
