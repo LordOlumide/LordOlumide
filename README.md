@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LordOlumide
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning JavaScript, Dart and Flutter.
+- Languages: Python, JavaScript, Dart, 
+- 👀 I’m involved in mobile development
+- 🌱 I’m currently learning Flutter and Firebase.
 - I"m improving.
 - 📫 How to reach me: olumideolubosede@yahoo.com
 
