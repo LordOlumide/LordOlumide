@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @LordOlumide
+## LordOlumide
+
+- 👋 Hi, I’m Olumide.
 - Languages: Python, JavaScript, Dart, 
 - 👀 I’m involved in mobile development
-- 🌱 I’m currently learning Flutter and Firebase.
-- I"m improving.
+- 🌱 I’m currently using Flutter and Firebase.
+- I will soon begin to learn some backend technologies with Dart or NodeJs.
 - 📫 How to reach me: olumideolubosede@yahoo.com
 
 <!---
