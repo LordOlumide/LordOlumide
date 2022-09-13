@@ -1,4 +1,4 @@
-## LordOlumide, KingKong's alter ego
+## LordOlumide
 
 - 👋 Hi, I’m Olumide.
 - Languages: Python, JavaScript, Dart, 
