@@ -1,11 +1,10 @@
 ## LordOlumide
 
-- 👋 Hi, I’m Olumide.
-- Languages: Python, JavaScript, Dart, 
-- 👀 I’m involved in mobile development
-- 🌱 I’m currently using Flutter and Firebase.
-- I am also learning backend development with NodeJs.
-- 📫 How to reach me: olumideolubosede@gmail.com
+👋 Hi, I’m **Olumide Olubosede** and I'm a **mobile app developer**. I an skilled at using **Dart** and **Flutter** to create beautiful and functional apps.
+🌱 I’m currently using Flutter and Firebase.
+
+- Languages I write: Dart, JavaScript, Python, C
+- 📫 Message me at: **[olumideolubosede@gmail.com](olumideolubosede@gmail.com)**
 
 <!---
 LordOlumide/LordOlumide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
