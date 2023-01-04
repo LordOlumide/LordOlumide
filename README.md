@@ -4,7 +4,7 @@
 🌱 I’m currently using Flutter and Firebase.
 
 - Languages I write: Dart, JavaScript, Python, C
-- 📫 Message me at: **[olumideolubosede@gmail.com](olumideolubosede@gmail.com)**
+- 📫 Message me at: **[olumideolubosede@gmail.com](mailto:olumideolubosede@gmail.com)**
 
 <!---
 LordOlumide/LordOlumide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
