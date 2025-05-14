@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olumide Olubosede</h1>
-<h3 align="center">A passionate flutter engineer from Nigeria.</h3>
+<h3 align="center">A passionate flutter engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordolumide" alt="lordolumide" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - I am skilled at using **Dart** and **Flutter** to create beautiful and functional apps using Flutter. I love Dart.
 
-- 📝 I regularly write articles on [https://intermediate-flutter.hashnode.dev/](https://intermediate-flutter.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://intermediate-flutter.hashnode.dev/)
 
 - 💬 Ask me about **Flutter and Dart**
 
