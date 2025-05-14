@@ -1,14 +1,47 @@
-## LordOlumide
+<h1 align="center">Hi 👋, I'm Olumide Olubosede</h1>
+<h3 align="center">A passionate flutter engineer from Nigeria.</h3>
 
-👋 I’m **Olumide Olubosede** and I'm a **mobile app developer**. I am skilled at using **Dart** and **Flutter** to create beautiful and functional apps using Flutter. I love Dart.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordolumide" alt="lordolumide" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com//olumideolubose3" target="blank"><img src="https://img.shields.io/twitter/follow/olumideolubose3?logo=twitter&style=for-the-badge" alt="/olumideolubose3" /></a> </p>
+
+- I am skilled at using **Dart** and **Flutter** to create beautiful and functional apps using Flutter. I love Dart.
+
+- 📝 I regularly write articles on [https://intermediate-flutter.hashnode.dev/](https://intermediate-flutter.hashnode.dev/)
+
+- 💬 Ask me about **Flutter and Dart**
+
+- Creator of [flutter_3d_carousel](https://pub.dev/packages/flutter_3d_carousel) package
+
+- 📫 How to reach me **olumideolubosede@gmail.com**
+
+- 📄 Know about my [experiences](https://docs.google.com/document/d/1ExxYW6XMgISl1B5tl3M4jiseNkRP0CDV1UKRA9_4Hc0/edit?usp=sharing)
+
+- ⚡ Fun fact **I love reading Brandon Sanderson books!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/lord_olumide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lord_olumide" height="30" width="40" /></a>
+<a href="https://twitter.com//olumideolubose3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="/olumideolubose3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/olumide-olubosede-83374818a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olumide-olubosede-83374818a" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/olumide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="olumide" height="30" width="40" /></a>
+<a href="https://fb.com/olumide.olubosede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="olumide.olubosede" height="30" width="40" /></a>
+<a href="https://instagram.com/olubosedeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="olubosedeo" height="30" width="40" /></a>
+<a href="https://hashnode.com/@lordonaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@lordonaka" height="30" width="40" /></a>
+<a href="https://medium.com/@olumideolubosede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olumideolubosede" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordolumide&show_icons=true&locale=en&layout=compact" alt="lordolumide" /></p>
 
 
-- 📫 Message me at: **[olumideolubosede@gmail.com](mailto:olumideolubosede@gmail.com)**
+<!--- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lordolumide&show_icons=true&locale=en" alt="lordolumide" /></p>
+--->
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LordOlumide)](https://git.io/streak-stats)
-
-<!--- [![trophy](https://github-profile-trophy.vercel.app/?username=LordOlumide)](https://github.com/ryo-ma/github-profile-trophy) --->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordolumide&" alt="lordolumide" /></p>
 
 <!---
 LordOlumide/LordOlumide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
