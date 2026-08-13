@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Olumide Olubosede</h1>
-<h3 align="center">A passionate flutter engineer</h3>
+<h3 align="center">A flutter and cybersecurity engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordolumide" alt="lordolumide" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com//olumideolubose3" target="blank"><img src="https://img.shields.io/twitter/follow/olumideolubose3?logo=twitter&style=for-the-badge" alt="/olumideolubose3" /></a> </p>
 
-- I am skilled at using **Dart** and **Flutter** to create beautiful and functional apps using Flutter. I love Dart.
+- **Dart** and **Flutter** engineer
 
-- 📝 I regularly write articles on [Hashnode](https://intermediate-flutter.hashnode.dev/)
+- Penetration tester
 
-- 💬 Ask me about **Flutter and Dart**
+- 📝 I sometimes write articles on [Hashnode](https://intermediate-flutter.hashnode.dev/)
 
 - Creator of [flutter_3d_carousel](https://pub.dev/packages/flutter_3d_carousel) package
 
