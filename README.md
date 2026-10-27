@@ -7,13 +7,9 @@
 
 - Penetration tester
 
-- 📝 I sometimes write articles on [Hashnode](https://intermediate-flutter.hashnode.dev/)
-
 - Creator of [flutter_3d_carousel](https://pub.dev/packages/flutter_3d_carousel) package
 
 - 📫 How to reach me **olumideolubosede@gmail.com**
-
-- 📄 Know about my [experiences](https://docs.google.com/document/d/1ExxYW6XMgISl1B5tl3M4jiseNkRP0CDV1UKRA9_4Hc0/edit?usp=sharing)
 
 - ⚡ Fun fact **I love reading Brandon Sanderson books!**
 
